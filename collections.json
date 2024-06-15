@@ -1,4 +1,13 @@
 {
+  "ethereum": [
+    {
+      "contract": "0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d",
+      "name": "Bored Ape Yacht Club",
+      "author": "Yuga Labs",
+      "website": "https://www.boredapeyachtclub.com/",
+      "opensea": "https://opensea.io/collection/boredapeyachtclub"
+    }
+  ],
   "polygon": [
     {
       "contract": "0xeb959a715dfffe6f82f4605533982c4859cb14fe",
