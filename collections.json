@@ -26,9 +26,44 @@
     {
       "contract": "0x907808732079863886443057c65827a0f1c64357",
       "name": "Foustlings x Reddit Collectible Avatars",
-      "author": "reddit inc.",
+      "author": "Tyler Foust",
       "website": "https://www.reddit.com",
       "opensea": "https://opensea.io/collection/foustlings-x-reddit-collectible-avatars"
+    },
+    {
+      "contract": "0x7ad0b04f222fb7668c501fc2c2a98bb4eb9a1103",
+      "name": "Four by GiftedOcean x Reddit Collectible Avatars",
+      "author": "Gifted Ocean",
+      "website": "https://www.reddit.com",
+      "opensea": "https://opensea.io/collection/four-by-giftedocean-x-reddit-collectible-avatars"
+    },
+    {
+      "contract": "0x67a68aafa375bc4d2454eeb6e946a4dae027fd18",
+      "name": "Nori by GiftedOcean",
+      "author": "Gifted Ocean",
+      "website": "https://www.reddit.com",
+      "opensea": "https://opensea.io/collection/nori-by-giftedocean-x-reddit-collectible-avatars"
+    },
+    {
+      "contract": "0x2d3d77a3da91b9032eb505dc4b1c9f7f29dc00aa",
+      "name": "Six by GiftedOcean x Reddit Collectible Avatars",
+      "author": "Gifted Ocean",
+      "website": "https://www.reddit.com",
+      "opensea": "https://opensea.io/collection/six-by-giftedocean-x-reddit-collectible-avatars"
+    },
+    {
+      "contract": "0xad283a7d4d34300bf3f0336c79ab46325c866008",
+      "name": "Spooky Sequel: giftedocean x Reddit Collectible Avatars",
+      "author": "Gifted Ocean",
+      "website": "https://www.reddit.com",
+      "opensea": "https://opensea.io/collection/spooky-sequel-giftedocean-x-reddit-collectible-ava"
+    },
+    {
+      "contract": "0x53c24125f68bd49ba79afe95a4b23f5e419d89b9",
+      "name": "Retro Reimagined: giftedocean x Reddit Collectible Avatars ",
+      "author": "Gifted Ocean",
+      "website": "https://www.reddit.com",
+      "opensea": "https://opensea.io/collection/retro-reimagined-giftedocean-x-reddit-collectible"
     }
   ]
 }
